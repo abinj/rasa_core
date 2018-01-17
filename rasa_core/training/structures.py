@@ -10,7 +10,7 @@ import uuid
 from collections import deque, defaultdict
 
 import typing
-from typing import List, Text, Dict, Optional, Tuple, Any, Deque, Set
+from typing import List, Text, Dict, Optional, Tuple, Any, Set
 
 from rasa_core import utils
 from rasa_core.actions.action import ACTION_LISTEN_NAME
